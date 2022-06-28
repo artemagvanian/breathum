@@ -1,6 +1,6 @@
 amqp==1.4.9
 anyjson==0.3.3
-arrow==0.12.1
+arrow==0.15.1
 billiard==3.3.0.23
 celery==3.1.23
 certifi==2018.4.16
